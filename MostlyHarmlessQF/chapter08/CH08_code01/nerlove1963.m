@@ -1,0 +1,11 @@
+[num1,txt1,raw1]=xlsread('nerlove1963.xlsx');
+tc=num1(:,1);
+q=num1(:,2);
+pl=num1(:,3);
+pf=num1(:,4);
+pk=num1(:,5);
+lntc=num1(:,6);
+lnq=num1(:,7);
+lnpf=num1(:,8);
+lnpk=num1(:,9);
+inpl=num1(:,10);
