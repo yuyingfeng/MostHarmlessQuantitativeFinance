@@ -23,6 +23,4 @@ Codes for Mostly Harmless Quantitative Finance
 <<<<<<< HEAD
 **ID: empiricalfinance**
 ![](https://mmbiz.qpic.cn/mmbiz_png/G4g9KzoOztBR9FKtpr3yokVgnSWQCW2FXHHFlgWsTMNWeZ5V6nWMvnM054LXGYro1EoZlWica4vPb78XUQx6Pfg/0?wx_fmt=png)
-=======
-![](https://mmbiz.qpic.cn/mmbiz_png/G4g9KzoOztBR9FKtpr3yokVgnSWQCW2FXHHFlgWsTMNWeZ5V6nWMvnM054LXGYro1EoZlWica4vPb78XUQx6Pfg/0?wx_fmt=png)
->>>>>>> origin/master
+
