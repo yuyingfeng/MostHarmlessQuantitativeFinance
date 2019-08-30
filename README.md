@@ -20,7 +20,6 @@ Codes for Mostly Harmless Quantitative Finance
 ## 如何联系我们?
 
 可以关注我们的公众号**量化金融科技前沿**
-<<<<<<< HEAD
 **ID: empiricalfinance**
 ![](https://mmbiz.qpic.cn/mmbiz_png/G4g9KzoOztBR9FKtpr3yokVgnSWQCW2FXHHFlgWsTMNWeZ5V6nWMvnM054LXGYro1EoZlWica4vPb78XUQx6Pfg/0?wx_fmt=png)
 
