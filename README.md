@@ -1,5 +1,7 @@
 # MostHarmlessQuantitativeFinance
-Codes for Mostly Harmless Quantitative Finance
+Source Codes for the book "Mostly Harmless Quantitative Finance(Chinese)"
+
+《基本无害的量化金融学》配套源代码
 ![](https://i.imgur.com/FfIerrb.jpg)
 ![](https://i.imgur.com/PBa0wQT.png)
 ![](https://i.imgur.com/W3H4w8Q.png)
@@ -20,7 +22,6 @@ Codes for Mostly Harmless Quantitative Finance
 ## 如何联系我们?
 
 可以关注我们的公众号**量化金融科技前沿**
-<<<<<<< HEAD
 **ID: empiricalfinance**
 ![](https://mmbiz.qpic.cn/mmbiz_png/G4g9KzoOztBR9FKtpr3yokVgnSWQCW2FXHHFlgWsTMNWeZ5V6nWMvnM054LXGYro1EoZlWica4vPb78XUQx6Pfg/0?wx_fmt=png)
 
