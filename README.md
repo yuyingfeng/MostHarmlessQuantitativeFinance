@@ -25,3 +25,5 @@ Source Codes for the book "Mostly Harmless Quantitative Finance(Chinese)"
 **ID: empiricalfinance**
 ![](https://mmbiz.qpic.cn/mmbiz_png/G4g9KzoOztBR9FKtpr3yokVgnSWQCW2FXHHFlgWsTMNWeZ5V6nWMvnM054LXGYro1EoZlWica4vPb78XUQx6Pfg/0?wx_fmt=png)
 
+或者去bilibili哔哩哔哩网站，搜索**Yu金融科技前沿**
+
